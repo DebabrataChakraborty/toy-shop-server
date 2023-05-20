@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-DebabrataChakraborty/issues"
   },
-  "homepage": "https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-DebabrataChakraborty#readme"
+  "homepage": "https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-DebabrataChakraborty#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
